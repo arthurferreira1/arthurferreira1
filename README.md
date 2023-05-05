@@ -7,6 +7,3 @@ I am an enthusiastic learner and continuously seek to expand my knowledge and sk
 On my Github profile, you'll find a range of projects that showcase my skills and interests. From data modeling to software development, my projects highlight my creativity, attention to detail, and problem-solving abilities.
 
 If you have any questions or would like to collaborate on a project, feel free to reach out. Let's create something great together! 🤝
-
-
-![Arthur Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurferreira1&count_private=true)
