@@ -9,4 +9,4 @@ On my Github profile, you'll find a range of projects that showcase my skills an
 If you have any questions or would like to collaborate on a project, feel free to reach out. Let's create something great together! 🤝
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Arthur Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurferreira1&count_private=true)
