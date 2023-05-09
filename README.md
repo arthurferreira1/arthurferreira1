@@ -1,4 +1,4 @@
-Hello there! 👋 It's great to have you here. My name is Arthur Ferreira, and I work at Gupy as a 🚀 Squad Lead of Modeling - Analytics Engineer.
+Hello World! 👋 It's great to have you here. My name is Arthur Ferreira, and I work at Gupy as a 🚀 Squad Lead of Modeling - Analytics Engineer.
 
 I have a broad experience with 💾 DBT, 💻 SQL, 🐍 Python, 🌐 JavaScript, relational and non-relational databases, ☁️ Cloud Architecture on AWS and GCP, 🐳 Docker, and more. I am passionate about data and enjoy working on projects that challenge me to come up with innovative solutions to complex problems.
 
