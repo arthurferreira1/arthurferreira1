@@ -1,9 +1,1 @@
-Hello World! 👋 It's great to have you here. My name is Arthur Ferreira, and I work at Gupy as a 🚀 Squad Lead of Modeling - Analytics Engineer.
-
-I have a broad experience with 💾 DBT, 💻 SQL, 🐍 Python, 🌐 JavaScript, relational and non-relational databases, ☁️ Cloud Architecture on AWS and GCP, 🐳 Docker, and more. I am passionate about data and enjoy working on projects that challenge me to come up with innovative solutions to complex problems.
-
-I am an enthusiastic learner and continuously seek to expand my knowledge and skills. I enjoy collaborating with others, sharing knowledge, and contributing to open-source projects.
-
-On my Github profile, you'll find a range of projects that showcase my skills and interests. From data modeling to software development, my projects highlight my creativity, attention to detail, and problem-solving abilities.
-
-If you have any questions or would like to collaborate on a project, feel free to reach out. Let's create something great together! 🤝
+Seasoned Data Engineer at Gupy, dedicated to translating raw data into meaningful insights. I bring my expertise in Cloud platforms (GCP and AWS) to the table, creating efficient ETL workflows using tools like DBT. My proficiency spans across dimensional modeling, SQL, and NoSQL databases, contributing to robust data architectures. With a strong passion for Python, I excel at developing streamlined data pipelines. Leveraging my skills in workflow automation through Airflow and Airbyte, I'm enthusiastic about collaborating on projects that harness the true potential of data to conquer intricate challenges.
